@@ -1,0 +1,7 @@
+.P-report-wrapper {
+    width: 100%;
+    padding: 20px;
+
+    .ui.button.P-reset-button { margin-top: 20px; }
+    .ui.button:is(.P-discard-button, .P-generate-button) { margin-bottom: 20px; }
+}
